@@ -1,23 +1,8 @@
-﻿  ComputacaoGrafica.cpp
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(73,36): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(25,17): warning C4101: 'z': variável local não referenciada
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(25,14): warning C4101: 'y': variável local não referenciada
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(25,11): warning C4101: 'x': variável local não referenciada
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(24,9): warning C4101: 'read': variável local não referenciada
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(109,53): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(133,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(163,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(164,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(165,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(168,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(169,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(170,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(175,23): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(181,32): warning C4305: '=': truncamento de 'double' para 'float'
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(182,32): warning C4305: '=': truncamento de 'double' para 'float'
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(183,30): warning C4305: '=': truncamento de 'double' para 'float'
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(186,33): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(187,33): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(188,33): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+﻿  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinição de macro
+C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\glfw\include\GLFW\glfw3.h(123,1): message : consulte a definição anterior de 'APIENTRY'
+C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\Main.cpp(208,32): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\marco\source\repos\ComputacaoGrafica\ComputacaoGrafica\Main.cpp(231,14): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
   ComputacaoGrafica.vcxproj -> C:\Users\marco\source\repos\ComputacaoGrafica\x64\Debug\ComputacaoGrafica.exe
           1 arquivo(s) copiado(s).
